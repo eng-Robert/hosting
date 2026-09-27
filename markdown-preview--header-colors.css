@@ -1,0 +1,13 @@
+/* Dark mode */
+/* @media (prefers-color-scheme: dark) { } */
+h1 { color: #90cdf4; border-bottom-color: #63b3ed; }
+h2 { color: #63b3ed; border-bottom-color: #4299e1; }
+h3 { color: #4fd1c5; }
+h4 { color: #d6bcfa; }
+h5 { color: #f6e05e; }
+strong { color: rgb(21, 172, 16); }
+em { color: rgb(202, 202, 1); }
+
+svg {
+  background-color: white;
+}
